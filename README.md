@@ -7,7 +7,7 @@ Notes:\
 Some upgrades may require respawning to take affect.\
 Many innate negative effects on weapons have counter-upgrades. ie The Fan of War has 100% damage penalty upgrade, meaning it gains 100% damage.\
 The default milk/jarate upgrades are incompatible with the custom upgrades\
-The upgrade without a description:\
+Two upgrades do not have a description:\
 The $1500 upgrade is extended flamethrower range\
 The $1400 upgrade is increased Dragon Fury fire rate.
 
