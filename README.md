@@ -1,6 +1,6 @@
 ## How to install :
 Put these files in the following folder location:\
-steam/steamapps/common/Team Fortress 2/tf/scripts/items\
+steam/steamapps/common/Team Fortress 2/tf/scripts/items
 
 Restarting tf2 or your game should not be necessary.
 
