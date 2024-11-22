@@ -2,8 +2,8 @@
 Put these files in the following folder location:\
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\scripts\items
 
-1: _you can copy the path above_
-2: Right click the file, ie. mvm_upgrades_Titans1c.txt and use Save Link As
+1: _you can copy the path above_\
+2: Right click the file, ie. mvm_upgrades_Titans1c.txt and use Save Link As\
 3:_paste the copied path into the address bar_
 
 Restarting tf2 or your game should not be necessary.
