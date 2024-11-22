@@ -4,6 +4,8 @@ steam/steamapps/common/Team Fortress 2/tf/scripts/items
 
 Restarting tf2 or your game should not be necessary.
 
+You can right click the file, ie. mvm_upgrades_Titans1c.txt and save link as to the folder.
+
 # Custom Upgrades for Titans_Heroes:
 Notes:\
 Some upgrades may require respawning to take affect.\
