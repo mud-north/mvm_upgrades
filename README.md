@@ -1,7 +1,8 @@
 ## How to install :
 Put these files in the following folder location:\
-In windows: _you can copy this link and paste it into your windows explorer._\
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\scripts\items
+
+Hint: _you can copy this link and paste it into your windows explorer._\
 
 Restarting tf2 or your game should not be necessary.
 
