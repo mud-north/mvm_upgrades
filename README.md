@@ -1,2 +1,2 @@
 ## Click Releases -> -> -> -> -> ->
-for instructions.
+to download and for instructions.
