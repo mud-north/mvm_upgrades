@@ -1,6 +1,6 @@
 ## How to install :
 Put these files in the following folder location:\
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\scripts\items
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\scripts\items\
 
 1: Copy the path above\
 2: Right click the two files, ie. mvm_upgrades_Titans1c.txt and use Save Link As.\
